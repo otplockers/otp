@@ -1,0 +1,8 @@
+FAST2SMS DLT API KEY - sguNamczXBFMdh5tfElK79LIAGVCb4r3kn1ZT8p26QjDOSeWRYP0bl42BOzJwa68ItR7MEgXcGfLjUYp
+FAST2SMS DLT SENDER ID - QQICKS
+FAST2SMS DLT TEMPLATE ID - 180132
+FAST2SMS TEMPLATE MESSAGE - Your Quicks verification One Time OTP is: {#var#} Please DO NOT share this One Time OTP with anyone. OTP is {#var#} ~ Trendra Technologies Private Limited
+{#var#} VALUE = 4 DIGIT OTP
+DLT API DOCUMENTATION - https://www.fast2sms.com/docs
+
+My code was allready build with otpless api service provider i need to change it to FAST2SMS DLT. OTPless automatically generate otp and verify, in fast2sms you have to generate 4 digit random otp.
